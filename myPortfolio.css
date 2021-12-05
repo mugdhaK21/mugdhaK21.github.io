@@ -10,6 +10,12 @@
     top: 0;
     z-index: 1;
 }
+.navbar-toggler{
+    cursor: pointer;
+}
+.navbar-toggler-icon{
+    color: black;
+}
 
 .progress{
     height: 50px;
